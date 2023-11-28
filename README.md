@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently a front-end student at Noroff vocational school. Right now I'm building my portfolio. I really like working with, among other things, html, css, javascript, api, wordpress amd Adobe Xd.
+
 <!--
 **Havard52/Havard52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
