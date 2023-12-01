@@ -19,8 +19,6 @@ E-mail: vavik13304@gmail.com
 
 Phone: +47 97 60 31 28
 
-www.linkedin.com/in/håvard-vavik-9a0401126
-
 <a href="www.linkedin.com/in/håvard-vavik-9a0401126">Linkedin</a>
 
 
