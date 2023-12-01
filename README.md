@@ -12,6 +12,7 @@ Hello world! I’m a front-end student at Noroff vocational school.
 - Javascript
 - Wordpress
 - Adobe XD
+  
 
 <img src="img/contact.png" alt="Contact">
 
