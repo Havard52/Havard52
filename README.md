@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 I’m a front-end student at Noroff vocational school.
 
