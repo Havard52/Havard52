@@ -6,7 +6,6 @@ Hello world! I’m a front-end student at Noroff vocational school.
 
 
 <img src="img/myskills.png" alt="My skills">
-
 - Html
 - Css
 - Javascript
