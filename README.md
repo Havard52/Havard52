@@ -6,7 +6,22 @@ Hello world! I’m a front-end student at Noroff vocational school.
 
 
 <img src="img/myskills.png" alt="My skills">
-<i class="fa-brands fa-square-js"></i><i class="fa-brands fa-css3-alt"></i><i class="fa-brands fa-html5"></i><i class="fa-brands fa-wordpress"></i>
+
+- Html
+- Css
+- Javascript
+- Wordpress
+- Adobe XD
+
+<img src="img/contact.png" alt="Contact">
+
+E-mail: vavik13304@gmail.com
+
+Phone: +47 97 60 31 28
+
+www.linkedin.com/in/håvard-vavik-9a0401126
+
+<a href="www.linkedin.com/in/håvard-vavik-9a0401126">Linkedin</a>
 
 
 
