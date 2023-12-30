@@ -2,7 +2,7 @@
 
 Hello world! I’m a front-end student at Noroff vocational school.
 
-🔭 I’m currently working on my portfolio.
+🔭 I’m currently working on my <a href="https://cozy-cocada-a30977.netlify.app/">portfolio</a>
 
 
 <img src="img/myskills.png" alt="My skills">
